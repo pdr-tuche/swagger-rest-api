@@ -33,7 +33,7 @@ public class SwaggerConfig {
                 "Terms of Service",
                 new Contact("Pedro Neves", "https://beacons.ai/pdrtuche", "contato.nevespedro@gmail.com"),
                 "Apache License Version 2.0",
-                "https://www.apache.org/licesen.html", new ArrayList<VendorExtension>()
+                "http://www.apache.org/licenses.html", new ArrayList<VendorExtension>()
         );
         return apiInfo;
     }
