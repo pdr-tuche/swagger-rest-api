@@ -41,3 +41,5 @@ mvn spring-boot:run
 A aplicação estará disponível na porta 8080
 
 Para ver a documentação do swagger acesse: http://localhost:8080/swagger-ui/index.html
+
+A documentação também esta em formato json no arquivo [api-docs.json](./api-docs.json)
